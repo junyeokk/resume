@@ -5,6 +5,8 @@
 <img src=profile.jpg height=150 weight=200>  
 
 **채준혁**  
+한림대학교 소프트웨어융합대학 빅데이터전공  
+
 E-mail: cjh4302@gmail.com  
 
 군필 여부: 미필 (2021년 입대 예정)  
