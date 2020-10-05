@@ -12,7 +12,7 @@ Tech-Blogs: https://laurent.tistory.com
   
 ---
 ## 학력  
-[한림대학교][hallym] 소프트웨어융합대학 빅데이터전공 (2학년, 2019~)  
+[한림대학교][hallym] [소프트웨어융합대학][swcvg] 빅데이터전공 (2학년, 2019~)  
 [오송고등학교][osong] (졸업, 2016-2019)  
 
 
@@ -57,3 +57,4 @@ Tech-Blogs: https://laurent.tistory.com
 [github]:https://github.com/ch4302
 [osong]:http://school.cbe.go.kr/os-h
 [hallym]:https://www.hallym.ac.kr
+[swcvg]:https://hlsw.hallym.ac.kr
