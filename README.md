@@ -5,7 +5,7 @@
 <img src=profile.jpg height=150 weight=200>  
 
 **채준혁**  
-한림대학교 소프트웨어융합대학 빅데이터전공  
+한림대학교 소프트웨어융합대학 빅데이터전공 재학 중 (2학년, 2020)  
 
 E-mail: cjh4302@gmail.com  
 
