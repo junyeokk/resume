@@ -5,13 +5,14 @@
 <img src=profile.jpg height=150 weight=200>  
 
 **채준혁**  
-  
-한림대학교 소프트웨어융합대학 빅데이터전공  
-**상태: 재학** (2학년, 2020)  
-
 E-mail: cjh4302@gmail.com  
+Github: https://github.com/ch4302  
+Tech-Blogs: https://laurent.tistory.com 
 
-군필 여부: 미필 (2021년 입대 예정)  
+  
+### 학력  
+한림대학교 소프트웨어융합대학 빅데이터전공 (2학년, 2019~)  
+오송고등학교 (졸업, 2016-2019)  
 
 
 ---  
