@@ -10,7 +10,7 @@ Github: https://github.com/ch4302
 Tech-Blogs: https://laurent.tistory.com 
 
   
-### 학력  
+## 학력  
 한림대학교 소프트웨어융합대학 빅데이터전공 (2학년, 2019~)  
 오송고등학교 (졸업, 2016-2019)  
 
