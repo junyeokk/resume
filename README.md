@@ -85,3 +85,5 @@ Tech-Blogs: https://laurent.tistory.com
 [osong]:http://school.cbe.go.kr/os-h
 [hallym]:https://www.hallym.ac.kr
 [swcvg]:https://hlsw.hallym.ac.kr
+[cnm]:http://school.cbe.go.kr/cjnam-m/M01/
+
