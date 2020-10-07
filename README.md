@@ -2,7 +2,7 @@
 
 ## 개인 이력 사항  
 
-<img src=profile.jpg height=150 weight=200>  
+<img src=profile.jpg height=400 weight=400>  
 
 **채준혁**  
 E-mail: cjh4302@gmail.com  
