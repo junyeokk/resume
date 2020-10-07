@@ -13,7 +13,16 @@
 ## 🌎 사용중인 웹사이트 / Using website
 E-mail: cjh4302@gmail.com  
 Github: https://github.com/ch4302  
-Tech-Blogs: https://laurent.tistory.com 
+Tech-Blogs: https://laurent.tistory.com  
+
+## 💻 프로그래밍 언어 스킬 목록 / Programming language skills list
+* **C / C++**
+* Java
+* Python
+* HTML / CSS / Javascript
+* R
+* Assembly
+
 
   
 ---
