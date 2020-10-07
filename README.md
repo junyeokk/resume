@@ -4,15 +4,22 @@
 
 <img src=profile.jpg height=400 weight=400>  
 
-**채준혁**  
+## ❤️ Bio / 개인정보
+이름(Name): **채준혁 (Junhyeok CHAE)**  
+생년월일(Birth): 2000.09.18  
+군필여부(Military service): **미필(N)**
+
+
+## 🌎 사용중인 웹사이트 / Using website
 E-mail: cjh4302@gmail.com  
 Github: https://github.com/ch4302  
 Tech-Blogs: https://laurent.tistory.com 
 
   
 ---
-## 학력  
-[한림대학교][hallym] [소프트웨어융합대학][swcvg] [빅데이터전공][bigdata](주전공) / [콘텐츠IT전공][contentsit](복수전공) / [교직이수][teaching] (2학년, 2019~)  
+## 🏫 학력 / Education
+[한림대학교][hallym] [소프트웨어융합대학][swcvg] [빅데이터전공][bigdata](주전공) / [콘텐츠IT전공][contentsit](복수전공) / [교직이수][teaching] (2학년, 2019~)   
+(Dept. of Computer Science and Engineering / Sophomore)  
 [오송고등학교][osong] (졸업, 2016-2019)  
 
 
