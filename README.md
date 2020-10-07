@@ -1,5 +1,10 @@
+<div align=center>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ch4302/resume)](https://hits.seeyoufarm.com)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ch4302/resume)
+
+</div>
+
 
 # 이력서 (Resume)  
 
