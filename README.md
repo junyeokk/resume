@@ -30,7 +30,7 @@ CodeUP: https://codeup.kr/userinfo.php?user=ch4302
 
 ## 💻 프로그래밍 언어 스킬 목록 / Programming language skills list
 * **C / C++**
-* Java
+* **Java**
 * Python
 * HTML / CSS / Javascript
 * R
