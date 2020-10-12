@@ -98,7 +98,7 @@ CodeUP: https://codeup.kr/userinfo.php?user=ch4302
 ## 🚀 교외 활동
 ### 알고리즘 공부
 * **Baekjoon Online Judge (BOJ) / Solved.ac**  
-[교내 랭킹 3위][bojschool], [전체 랭킹 5000+위][boj] (2020.10 기준, BOJ)  
+[교내 랭킹 3위][bojschool], [전체 랭킹 5000+위][boj] [~~군대 랭킹 70위~~][bojsoldier] (2020.10 기준, BOJ)  
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
 
@@ -127,4 +127,5 @@ CodeUP: https://codeup.kr/userinfo.php?user=ch4302
 [cnm]:http://school.cbe.go.kr/cjnam-m/M01/
 [boj]:https://www.acmicpc.net/user/ch4302 
 [bojschool]:https://www.acmicpc.net/school/ranklist/416
+[bojsoldier]:https://www.acmicpc.net/school/ranklist/461
 [codeup]:https://codeup.kr/userinfo.php?user=ch4302
