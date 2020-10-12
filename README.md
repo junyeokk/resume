@@ -95,17 +95,19 @@ CodeUP: https://codeup.kr/userinfo.php?user=ch4302
 |전공(공통전선)|컴퓨터구조|3학점|NA|
 |교직|학교폭력예방및대책|2학점|
 
+---
 ## 🚀 교외 활동
 ### 알고리즘 공부
 * **Baekjoon Online Judge (BOJ) / Solved.ac**  
 [교내 랭킹 3위][bojschool], [전체 랭킹 5000+위][boj]  [~~군대 랭킹 70위~~][bojsoldier] (2020.10 기준, BOJ)  
-  
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
 
 * **CodeUP**  
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
 
-
+### 자격증
+* 정보처리기능사 (2020.07.17)
 
 
 
