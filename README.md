@@ -19,13 +19,13 @@
 
 
 ## 🌎 사용중인 웹사이트 / Using website
-E-mail: cjh4302@gmail.com  
-Github: https://github.com/ch4302  
-Tech-Blogs: https://laurent.tistory.com  
-Instagram: https://www.instagram.com/__laurentt/  
-Baekjoon Online Judge(BOJ): https://www.acmicpc.net/user/ch4302  
-Solved.ac: https://solved.ac/profile/ch4302  
-CodeUP: https://codeup.kr/userinfo.php?user=ch4302  
+* E-mail: cjh4302@gmail.com  
+* Github: https://github.com/ch4302  
+* Tech-Blogs: https://laurent.tistory.com  
+* Instagram: https://www.instagram.com/__laurentt/  
+* Baekjoon Online Judge(BOJ): https://www.acmicpc.net/user/ch4302  
+* Solved.ac: https://solved.ac/profile/ch4302  
+* CodeUP: https://codeup.kr/userinfo.php?user=ch4302  
 
 
 ## 💻 프로그래밍 언어 스킬 목록 / Programming language skills list
