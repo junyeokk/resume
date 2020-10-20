@@ -106,10 +106,12 @@
 * **CodeUP**  
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
 
-### 자격증
-* 정보처리기능사 (2020.07.17)
+### 자격증 / 자격시험  
+* 정보처리기능사 (2020.07.17)  
+<img src=photos/license1.jpg height=400 weight=800>  
 
-
+* TOPCIT - 246점 취득 (2020.06.20)  
+<img src=photos/topcit.jpg height=400 weight=200>  
 
 
 
