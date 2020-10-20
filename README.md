@@ -10,7 +10,7 @@
 
 ## 개인 이력 사항  
 
-<img src=profile.jpg height=400 weight=400>  
+<img src=photos/profile.jpg height=400 weight=400>  
 
 ## ❤️ Bio / 개인정보
 이름(Name): **채준혁 (Junhyeok CHAE)**  
