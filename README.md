@@ -110,7 +110,9 @@
 * 정보처리기능사 (2020.07.17)  
 <img src=photos/license1.jpg height=400 weight=800>  
 
-* TOPCIT - 246점 취득
+* TOPCIT - 246점 취득 (2020.06.20)  
+<img src=photos/topcit.jpg height=400 weight=200>  
+
 
 
 
