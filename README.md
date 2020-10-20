@@ -111,7 +111,7 @@
 <img src=photos/license1.jpg height=400 weight=800>  
 
 * TOPCIT - 246점 취득 (2020.06.20)  
-<img src=photos/topcit.jpg height=400 weight=200>  
+<img src=photos/topcit.jpg height=150 weight=350>  
 
 
 
