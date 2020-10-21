@@ -108,7 +108,7 @@
 
 ### 자격증 / 자격시험  
 * 정보처리기능사 (2020.07.17)  
-<img src=photos/license1.jpg height=400 weight=800>  
+<img src=photos/license1.jpg height=200 weight=600>  
 
 * TOPCIT - 246점 취득 (2020.06.20)  
 <img src=photos/topcit.jpg height=200 weight=350>  
