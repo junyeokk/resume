@@ -97,8 +97,8 @@
 
 
 ---  
-## 교내 활동
-### 🏃 공모전
+## 🏃 교내 활동
+### 공모전
 * **2019 제1회 SW교육 동영상 공모전**  
 '라즈베리파이로 레트로파이 만들기' 라는 주제의 교육 영상을 만듬.  
 <img src=photos/education_competition.jpg height=400 weight=400>
