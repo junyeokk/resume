@@ -95,6 +95,14 @@
 |전공(공통전선)|컴퓨터구조|3학점|NA|
 |교직|학교폭력예방및대책|2학점|
 
+
+---  
+## 교내 활동
+### 공모전
+* **2019 제1회 SW교육 동영상 공모전**
+'라즈베리파이로 레트로파이 만들기' 라는 주제의 교육 영상을 만듬.
+<img src=photos/education_competition.jpg height=400 weight=400>
+
 ---
 ## 🚀 교외 활동
 ### 알고리즘 공부
@@ -108,7 +116,7 @@
 
 ### 자격증 / 자격시험  
 * 정보처리기능사 (2020.07.17)  
-<img src=photos/license1.jpg height=400 weight=800>  
+<img src=photos/license1.jpg height=200 weight=600>  
 
 * TOPCIT - 246점 취득 (2020.06.20)  
 <img src=photos/topcit.jpg height=200 weight=350>  
