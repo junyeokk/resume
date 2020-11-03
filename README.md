@@ -97,13 +97,15 @@
 
 
 ---  
-## 교내 활동
-### 🏃 공모전
+## 🏃 교내 활동
+### 공모전
 * **2019 제1회 SW교육 동영상 공모전**  
 '라즈베리파이로 레트로파이 만들기' 라는 주제의 교육 영상을 만듬.  
 <img src=photos/education_competition.jpg height=400 weight=400>
 
-  
+* **SW Week 전공자 대회**  
+자바스크립트를 이용한 프로그래밍 대회에서 우수한 성적을 거두어 입상함.  
+<img src=photos/sw_week_competition_2019.jpg height=400 weight=400>
 
 ---
 ## 🚀 교외 활동
@@ -115,6 +117,18 @@
 
 * **CodeUP**  
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
+
+* **HackerRank**  
+C, Java, Python 인증 수료
+**Python (Basic) Certificate**
+<img src=photos/python_basic_certificate.jpg height=400 weight=400>
+
+**C (Basic) Certificate**
+<img src=photos/c_basic_certificate.jpg height=400 weight=400>
+
+**C++ (Basic) Certificate**
+<img src=photos/c++_basic_certificate.jpg height=400 weight=400>
+
 
 ### 자격증 / 자격시험  
 * **정보처리기능사** (2020.07.17)  
