@@ -115,13 +115,13 @@
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
 
 ### 자격증 / 자격시험  
-* 정보처리기능사 (2020.07.17)  
+* **정보처리기능사** (2020.07.17)  
 <img src=photos/license1.jpg height=200 weight=600>  
 
-* TOPCIT - 246점 취득 (2020.06.20)  
+* **TOPCIT - 246점** 취득 (2020.06.20)  
 <img src=photos/topcit.jpg height=200 weight=350>  
 
-* ETS TOEIC - 745점 취득 (2020.08.09 ~ 2022.08.09)
+* **ETS TOEIC - 745점** 취득 (2020.08.09 ~ 2022.08.09)
 <img src=photos/toeic.jpg height=200 weight=350>  
 
 
