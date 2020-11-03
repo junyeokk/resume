@@ -121,7 +121,7 @@
 * TOPCIT - 246점 취득 (2020.06.20)  
 <img src=photos/topcit.jpg height=200 weight=350>  
 
-* ETS TOEIC - 745점 취득 (2020.08.09)
+* ETS TOEIC - 745점 취득 (2020.08.09 ~ 2022.08.09)
 <img src=photos/toeic.jpg height=200 weight=350>  
 
 
