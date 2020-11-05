@@ -119,15 +119,15 @@
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
 
 * **HackerRank**  
-C, Java, Python 인증 수료
-**Python (Basic) Certificate**
-<img src=photos/python_basic_certificate.jpg height=400 weight=400>
+C, Java, Python 인증 수료  
+**Python (Basic) Certificate**  
+<img src=photos/python_basic_certificate.PNG height=400 weight=400>
 
 **C (Basic) Certificate**
-<img src=photos/c_basic_certificate.jpg height=400 weight=400>
+<img src=photos/c_basic_certificate.PNG height=400 weight=400>
 
 **C++ (Basic) Certificate**
-<img src=photos/c++_basic_certificate.jpg height=400 weight=400>
+<img src=photos/c++_basic_certificate.PNG height=400 weight=400>
 
 
 ### 자격증 / 자격시험  
