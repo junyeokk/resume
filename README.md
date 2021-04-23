@@ -15,7 +15,7 @@
 ## ❤️ Bio / 개인정보
 이름(Name): **채준혁 (Junhyeok CHAE)**  
 생년월일(Birth): 2000.09.18  
-군필여부(Military service): **미필(N)** / **2021.02.15 입대**  
+군필여부(Military service): **현역** / **2021.02.15 ~ 2022.11.14**  
 
 
 ## 🌎 사용중인 웹사이트 / Using website
@@ -27,19 +27,16 @@
 * CodeUP: https://codeup.kr/userinfo.php?user=ch4302  
 
 
-## 💻 프로그래밍 언어 스킬 목록 / Programming language skills list
-* **C / C++**
-* **Java**
-* Python
-* HTML / CSS / Javascript
-* R
-* Assembly
-
+## 💻 보유 기술
+* [Language] **C/C++** , **Java** , Python 
+* [Library] OpenCV
+* [Front-End] HTML / CSS / Javascript / Bootstrap
+* [Back-End] Spring
 
   
 ---
 ## 🏫 학력 / Education
-[한림대학교][hallym] [소프트웨어융합대학][swcvg] [빅데이터전공][bigdata](주전공) / [콘텐츠IT전공][contentsit](복수전공) / [교직이수][teaching] (재학(2학년), 2019.02 ~ ) (Department of Computer Science and Engineering / Sophomore)  
+[한림대학교][hallym] [소프트웨어융합대학][swcvg] [빅데이터전공][bigdata](주전공) / [콘텐츠IT전공][contentsit](복수전공) / [교직이수][teaching] (군휴학(2학년), 2019.02 ~ 2021.02) (Department of Computer Science and Engineering / Sophomore)  
 [오송고등학교][osong] (졸업, 2016.03 ~ 2019.01)  
 
 
@@ -73,8 +70,9 @@
 * **Baekjoon Online Judge (BOJ) / Solved.ac**  
 [교내 랭킹 3위][bojschool], [전체 랭킹 5000+위][boj]  [~~군대 랭킹 70위~~][bojsoldier] (2020.10 기준, BOJ)  
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
+<!--
 * **CodeUP**  
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
 
@@ -90,6 +88,7 @@ C, Java, Python 인증 수료
 <img src=photos/c++_basic_certificate.PNG height=400 weight=400>
 
 
+
 ### 자격증 / 자격시험  
 * **정보처리기능사** (2020.07.17)  
 <img src=photos/license1.jpg height=200 weight=600>  
@@ -98,8 +97,8 @@ C, Java, Python 인증 수료
 <img src=photos/topcit.jpg height=200 weight=350>  
 
 * **ETS TOEIC - 745점** 취득 (2020.08.09 ~ 2022.08.09)
-<img src=photos/toeic.jpg height=200 weight=350>  
-
+<img src=photos/toeic.jpg height=200 weight=350>
+-->
 
 
 
