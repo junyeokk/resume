@@ -27,10 +27,10 @@
 * CodeUP: https://codeup.kr/userinfo.php?user=ch4302  
 
 
-## 💻 보유 기술
-* [Language] **C/C++** , **Java** , Python 
+## 💻 보유 기술 / Stack
+* [Language] **C/C++**, **Java**, Python 
 * [Library] OpenCV
-* [Front-End] HTML / CSS / Javascript / Bootstrap
+* [Front-End] HTML/CSS/Javascript, Bootstrap
 * [Back-End] Spring
 
   
@@ -40,6 +40,7 @@
 [오송고등학교][osong] (졸업, 2016.03 ~ 2019.01)  
 
 
+<!--
 ## 📚 수강 과목 목록
 #### 2019년도 1학기 강의 과목 (1학기 이수)  
 * 자바프로그래밍I (Programming Language - Java(I))  
@@ -62,6 +63,20 @@
 * 오픈소스SW의이해  
 * 컴퓨터구조 (Computer Architecture)  
 * 학교폭력예방및대책 (Prevention and Countermeasures for School Violence)  
+-->
+
+## 프로젝트 이력 / Experience  
+2021.04 ~  현재
+(웹 서비스 개발 진행 중)  
+
+## 수상 경력 / Prize  
+SW중심대학 공동해커톤 (최우수상)  
+* 수상 날짜: 2021. 02.  
+* Github: https://github.com/21-SW-Hackathon-Bongo  
+
+## Work Experience
+2021. 04. ~ 2022. 11.  
+공군본부
 
 
 ---
@@ -72,6 +87,12 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
+
+
+
+
+
+
 <!--
 * **CodeUP**  
 [전체 랭킹 1000+위][codeup] (2020.10 기준)  
