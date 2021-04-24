@@ -75,8 +75,7 @@ SW중심대학 공동해커톤 (최우수상)
 * Github: https://github.com/21-SW-Hackathon-Bongo  
 
 ## Work Experience
-2021.04. ~ 2022.11.  
-<!--공군본부-->
+2021.04. ~ 2022.11.   
 
 
 ---
