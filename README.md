@@ -6,9 +6,8 @@
 </div>
 
 
-# 이력서 (Resume)  
-
-## 개인 이력 사항  
+# 개인 이력  
+ 
 
 <img src=photos/profile.jpg height=400 weight=400>  
 
