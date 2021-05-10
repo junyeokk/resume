@@ -36,7 +36,7 @@
   
 ---
 ## 🏫 학력 / Education
-[한림대학교][hallym] [소프트웨어융합대학][swcvg] [빅데이터전공][bigdata](주전공) / [콘텐츠IT전공][contentsit](복수전공) / [교직이수][teaching] (군휴학(2학년), 2019.02 ~ 2021.02) (Department of Computer Science and Engineering / Sophomore)  
+[한림대학교][hallym] [소프트웨어융합대학][swcvg] (군휴학(2학년), 2019.02 ~ 2021.02) (Department of Computer Science / Sophomore)  
 [오송고등학교][osong] (졸업, 2016.03 ~ 2019.01)  
 
 
@@ -66,11 +66,11 @@
 -->
 
 ## 프로젝트 이력 / Experience  
-2021.04 ~  현재
+2021.04 ~    
 (웹 서비스 개발 진행 중)  
 
 ## 수상 경력 / Prize  
-SW중심대학 공동해커톤 (최우수상)  
+SW중심대학 공동해커톤   
 * 수상 날짜: 2021.02.  
 * Github: https://github.com/21-SW-Hackathon-Bongo  
 
@@ -82,7 +82,6 @@ SW중심대학 공동해커톤 (최우수상)
 ## 🚀 교외 활동
 ### 알고리즘 공부
 * **Baekjoon Online Judge (BOJ) / Solved.ac**  
-[교내 랭킹 3위][bojschool], [전체 랭킹 5000+위][boj]  [~~군대 랭킹 70위~~][bojsoldier] (2020.10 기준, BOJ)  
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
