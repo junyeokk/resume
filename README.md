@@ -78,46 +78,6 @@ SW중심대학 공동해커톤
 
 
 ---
-## 🚀 교외 활동
-### 알고리즘 공부
-* **Baekjoon Online Judge (BOJ) / Solved.ac**  
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)  
-
-
-
-
-
-
-<!--
-* **CodeUP**  
-[전체 랭킹 1000+위][codeup] (2020.10 기준)  
-
-* **HackerRank**  
-C, Java, Python 인증 수료  
-
-<img src=photos/python_basic_certificate.PNG height=400 weight=400>
-
-
-<img src=photos/c_basic_certificate.PNG height=400 weight=400>
-
- 
-<img src=photos/c++_basic_certificate.PNG height=400 weight=400>
-
-
-
-### 자격증 / 자격시험  
-* **정보처리기능사** (2020.07.17)  
-<img src=photos/license1.jpg height=200 weight=600>  
-
-* **TOPCIT - 246점** 취득 (2020.06.20)  
-<img src=photos/topcit.jpg height=200 weight=350>  
-
-* **ETS TOEIC - 745점** 취득 (2020.08.09 ~ 2022.08.09)
-<img src=photos/toeic.jpg height=200 weight=350>
--->
-
 
 
 
