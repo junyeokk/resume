@@ -14,17 +14,7 @@
 ## ❤️ Bio / 개인정보
 이름(Name): **채준혁 (Junhyeok CHAE)**  
 생년월일(Birth): 2000.09.18  
-군필여부(Military service): **현역** / **2021.02.15 ~ 2022.11.14**  
-
-
-## 🌎 사용중인 웹사이트 / Using website
-* E-mail: cjh4302@gmail.com  
-* Github: https://github.com/ch4302  
-* Tech-Blogs: https://laurent.tistory.com 
-* Baekjoon Online Judge(BOJ): https://www.acmicpc.net/user/ch4302  
-* Solved.ac: https://solved.ac/profile/ch4302  
-* CodeUP: https://codeup.kr/userinfo.php?user=ch4302  
-
+군필여부(Military service): **현역 (Republic of Korea Air Force)** / **2021.02.15 ~ 2022.11.14**  
 
 ## 💻 보유 기술 / Stack
 * [Language] **C/C++**, **Java**, Python 
