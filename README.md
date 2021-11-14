@@ -1,32 +1,18 @@
-<div align=center>
+<h1 align="center">Junhyeok Chae</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ch4302/resume)](https://hits.seeyoufarm.com)
-![GitHub last commit](https://img.shields.io/github/last-commit/ch4302/resume)
-
-</div>
+<blockquote align="center">Software Engineer | Republic of Korea Air Force</blockquote>
 
 
-# 개인 이력  
- 
-
-<img src=photos/profile.jpg height=400 weight=400>  
-
-## ❤️ Bio / 개인정보
-이름(Name): **채준혁 (Junhyeok CHAE)**  
-생년월일(Birth): 2000.09.18  
-군필여부(Military service): **현역 (Republic of Korea Air Force)** / **2021.02.15 ~ 2022.11.14**  
-
-## 💻 보유 기술 / Stack
+## Development Skills
 * [Language] **C/C++**, **Java**, Python 
-* [Library] OpenCV
-* [Front-End] HTML/CSS/Javascript, Bootstrap
+* [Front-End] HTML/CSS/Javascript
 * [Back-End] Spring
 
   
 ---
-## 🏫 학력 / Education
-[한림대학교][hallym] [소프트웨어융합대학][swcvg] (군휴학(2학년), 2019.02 ~ 2021.02) (Department of Computer Science / Sophomore)  
-[오송고등학교][osong] (졸업, 2016.03 ~ 2019.01)  
+## Education
+[Hallym University][hallym] [Software Convergence][swcvg] (Leave of Absence (Military Services), 2019.02 ~ 2021.02) (Department of Computer Science / Sophomore)  
+[Osong Highschool][osong] (Graduated, 2016.03 ~ 2019.01)  
 
 
 <!--
