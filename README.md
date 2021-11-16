@@ -6,9 +6,17 @@
 ---
 
 ## Development Skills
-* [Language] **C/C++**, **Java**, Python 
-* [Front-End] HTML/CSS/Javascript
-* [Back-End] Java(Spring)
+### Web publisher
+- Basic web structure using HTML5  
+- Material Design UI, Lay out Interactive Web using CSS  
+- Modal, Navbar, Several buttons using Bootstrap  
+
+### Front-End
+- Communicate with the server using Ajax
+
+### Back-End
+- Several API Logics, MVC Pattern using Spring  
+
 
 ## Education
 [Hallym University][hallym] [Software Convergence][swcvg] (Leave of Absence (Military Services), 2019.02 ~ 2021.02) (Department of Computer Science / Sophomore)  
@@ -20,7 +28,12 @@ SW중심대학 공동해커톤
 * Github: https://github.com/21-SW-Hackathon-Bongo  
 
 ## Work Experience
-2021.04. ~ 2022.11. Republic of Korea Air Force  
+### Republic of Korea Air Force (2021.04. ~ 2022.11.)  
+- Build and Design UI/UX using HTML5, CSS, Bootstrap
+- Design Several API Logics 
+- MVC Pattern using Spring
+
+
 
 
 [osong]:http://school.cbe.go.kr/os-h
